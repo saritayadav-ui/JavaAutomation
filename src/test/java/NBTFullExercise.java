@@ -41,11 +41,9 @@ public class NBTFullExercise {
         // ==============================
         // Navigation (get)
         // ==============================
-        driver.get("https://navbharattimes.indiatimes.com/");
+        driver.get("https://navbharattimes.indiatimes.com");
 
-        // ==============================
         // Navigation (refresh, back, to)
-        // ==============================
 //        driver.navigate().refresh();
 //        driver.navigate().to("https://navbharattimes.indiatimes.com/");
 //        driver.navigate().back();
